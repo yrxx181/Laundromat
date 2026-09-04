@@ -1,5 +1,6 @@
 # Laundromat
 Laundromat for smiskis to wash their clothes 
+
 Furnitures: 
 1.a rubber duck for decorative purposes
 2.bench for smiskis to sit on while waiting for their clothes to wash/dry
